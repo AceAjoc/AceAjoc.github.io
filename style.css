@@ -438,13 +438,14 @@ h4 {
 	color: lightgray;
 }
 
-.fa {
+.fa-brands {
+	font-size: 20px;
 	margin: 20px 5px;
 	color: lightgray;
 	transition: 0.4s;
 }
 
-.fa:hover {
+.fa-brands:hover {
 	color: darkslategray;
 }
 
